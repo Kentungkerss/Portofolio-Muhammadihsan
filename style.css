@@ -10,7 +10,7 @@ body {
     top: 0;
     width: 100%;
     display: flex;
-    justify-content:space-evenly;
+    justify-content:space-around;
     align-items: center;
     background-color: rgb(242, 171, 4);
     color: rgb(0, 0, 0);
